@@ -53,14 +53,14 @@
       / \     
      1   6      
     / \
-   0   3          * 0 numaralı eleman 7,5 ve 1'den küçük olduğu için 1'in sol tarafına yazılır.
+   0   3           * 0 numaralı eleman 7,5 ve 1'den küçük olduğu için 1'in sol tarafına yazılır.
    
    
           7
         /   \
        5     8
       / \     \
-     1   6     9  * 9, 7 ve 8'den büyük olduğu için 8'in sağ tarafına yazılır.
+     1   6     9   * 9, 7 ve 8'den büyük olduğu için 8'in sağ tarafına yazılır.
     / \
    0   3
        
